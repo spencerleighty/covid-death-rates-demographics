@@ -58,6 +58,6 @@ Key variables included:
 
 ## Visualizations
 
-![Death Rates by Sex](images/sex_boxplot.png)
-![Death Rates by Age Group](images/age_group_boxplot.png)
-![Death Rates by Race and Ethnicity](images/race_ethnicity_boxplot.png)
+![Death Rates by Sex](image/sex_boxplot.png)
+![Death Rates by Age Group](image/age_group_boxplot.png)
+![Death Rates by Race and Ethnicity](image/race_ethnicity_boxplot.png)
