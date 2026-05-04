@@ -62,4 +62,4 @@ Add images here after uploading them to the images folder.
 ```markdown
 ![Death Rates by Sex](images/sex_boxplot.png)
 ![Death Rates by Age Group](images/age_group_boxplot.png)
-![Death Rates by Race and Ethnicity](images/race_ethnicity_boxplot.png)****
+![Death Rates by Race and Ethnicity](images/race_ethnicity_boxplot.png)
