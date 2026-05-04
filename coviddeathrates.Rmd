@@ -1,5 +1,5 @@
 ---
-title: "FinalProj"
+title: "Covid Death Rates by Demographic"
 author: "Spencer Leighty"
 date: "2025-11-22"
 output: html_document
